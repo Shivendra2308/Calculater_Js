@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background: linear-gradient(45deg,#0a0a0a,#6865654d);
+}
+.mx-auto{
+    margin: auto;
+}
+
+
+.flex{
+    display: flex;
+}
+.flex-col{
+flex-direction: column;
+}
+.items-center{
+    align-items:center ;
+}
